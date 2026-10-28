@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Jiahao 👋
 
-<!--
-**PhalanXinho/PhalanXinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software engineering · Data engineering · Data science · AI
 
-Here are some ideas to get you started:
+I'm a **Data Science and Engineering graduate** from the **University of Las Palmas de Gran Canaria (ULPGC)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I work at **ULPGC** on the **H2TRAIN** project, contributing across different technical areas, with a primary focus on **software engineering**.
+
+## Technologies I work with
+
+**Python** · **Docker** · **Linux** · **Bash scripting**
+
+## About me
+
+I'm passionate about technology and the wider tech industry. My interests span software development, data engineering, data science, and artificial intelligence. I enjoy learning new tools, solving practical problems, and understanding how systems work.
+
+## Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/jia-hao-yang-2932b61ba/)
