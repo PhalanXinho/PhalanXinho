@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Jiahao — Software, Data and Technology</title>
+<desc id="desc">A dark blue banner with an animated network of data nodes. Jiahao works at ULPGC on H2TRAIN.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#081223"/><stop offset="1" stop-color="#122743"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#22d3ee" stop-opacity=".18"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#60a5fa" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+<circle cx="1000" cy="150" r="240" fill="url(#halo)"/>
+<rect x="0" y="0" width="7" height="320" rx="3" fill="url(#accent)"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="60" y="64" font-size="15" font-weight="600" fill="#5eead4" letter-spacing="4">SOFTWARE / DATA / TECHNOLOGY</text>
+<text x="56" y="153" font-size="80" font-weight="750" fill="#f0f6fc" letter-spacing="-2">Hi, I'm Jiahao.</text>
+<text x="60" y="197" font-size="25" fill="#a8bdd5">Building software. Exploring data.</text>
+<rect x="60" y="238" width="195" height="34" rx="17" fill="#173447" stroke="#286275"/>
+<circle cx="80" cy="255" r="4" fill="#5eead4"><animate attributeName="opacity" values="1;.35;1" dur="3s" repeatCount="indefinite"/></circle>
+<text x="94" y="261" font-size="14" fill="#d7fbf5" letter-spacing="1">ULPGC · H2TRAIN</text>
+</g>
+<g fill="none" stroke="#2c5876" stroke-width="1.5">
+<path id="routeA" d="M820 82L932 57L1080 111L1113 237L967 270L862 211Z"/>
+<path d="M820 82L967 270M932 57L862 211M1080 111L862 211M932 57L1113 237M820 82L1113 237"/>
+<circle cx="968" cy="164" r="57" stroke="#5eead4" stroke-opacity=".35"/>
+<circle cx="968" cy="164" r="76" stroke-dasharray="3 12" stroke="#60a5fa" stroke-opacity=".35">
+<animateTransform attributeName="transform" type="rotate" from="0 968 164" to="360 968 164" dur="50s" repeatCount="indefinite"/>
+</circle>
+</g>
+<g fill="#122b41" stroke="#60a5fa" stroke-width="2">
+<circle cx="820" cy="82" r="7"/><circle cx="932" cy="57" r="6"/><circle cx="1080" cy="111" r="8"/>
+<circle cx="1113" cy="237" r="6"/><circle cx="967" cy="270" r="7"/><circle cx="862" cy="211" r="6"/>
+</g>
+<circle r="4" fill="#5eead4"><animateMotion dur="10s" repeatCount="indefinite" path="M820 82L932 57L1080 111L1113 237L967 270L862 211Z"/></circle>
+<rect x="928" y="124" width="80" height="80" rx="20" fill="#11253a" stroke="#5eead4" stroke-opacity=".6"/>
+<text x="968" y="176" text-anchor="middle" font-family="Consolas,monospace" font-size="32" font-weight="700" fill="#5eead4">&lt;/&gt;</text>
+</svg>

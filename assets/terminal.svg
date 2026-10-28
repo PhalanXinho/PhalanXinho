@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img" aria-labelledby="title">
+<title id="title">A snapshot of Jiahao: software at ULPGC, data background and curiosity about technology</title>
+<rect x="1" y="1" width="998" height="188" rx="16" fill="#0d1728" stroke="#243950"/>
+<path d="M1 43H999" stroke="#243950"/>
+<circle cx="24" cy="23" r="5" fill="#fb7185"/><circle cx="43" cy="23" r="5" fill="#fbbf24"/><circle cx="62" cy="23" r="5" fill="#34d399"/>
+<text x="500" y="28" text-anchor="middle" font-family="Consolas,monospace" font-size="12" fill="#8ca4c1">jiahao@github ~ profile</text>
+<g font-family="Consolas,monospace" font-size="17">
+<text x="28" y="77" fill="#5eead4">$ cat about-me</text>
+<text x="28" y="107" fill="#d4e2f2">work     <tspan fill="#8ca4c1">→</tspan> ULPGC / H2TRAIN / software engineering</text>
+<text x="28" y="135" fill="#d4e2f2">roots    <tspan fill="#8ca4c1">→</tspan> Data Science and Engineering</text>
+<text x="28" y="163" fill="#d4e2f2">mindset  <tspan fill="#8ca4c1">→</tspan> Learn. Build. Explore.</text>
+</g>
+<rect x="460" y="148" width="10" height="19" fill="#5eead4"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.49;.5;1" dur="1.3s" repeatCount="indefinite"/></rect>
+</svg>
