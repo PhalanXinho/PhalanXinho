@@ -8,7 +8,6 @@
 <text x="28" y="77" fill="#5eead4">$ cat about-me</text>
 <text x="28" y="107" fill="#d4e2f2">work     <tspan fill="#8ca4c1">→</tspan> ULPGC / H2TRAIN / software engineering</text>
 <text x="28" y="135" fill="#d4e2f2">roots    <tspan fill="#8ca4c1">→</tspan> Data Science and Engineering</text>
-<text x="28" y="163" fill="#d4e2f2">mindset  <tspan fill="#8ca4c1">→</tspan> Learn. Build. Explore.</text>
+<text x="28" y="163" fill="#d4e2f2">mindset  <tspan fill="#8ca4c1">→</tspan> Learn. Build. Explore.<tspan dx="2" fill="#5eead4">█<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.49;.5;1" dur="1.3s" repeatCount="indefinite"/></tspan></text>
 </g>
-<rect x="460" y="148" width="10" height="19" fill="#5eead4"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.49;.5;1" dur="1.3s" repeatCount="indefinite"/></rect>
 </svg>
